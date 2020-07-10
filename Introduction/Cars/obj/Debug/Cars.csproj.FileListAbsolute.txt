@@ -1,0 +1,9 @@
+C:\Users\dylant\source\repos\Introduction\Cars\bin\Debug\fuel.csv
+C:\Users\dylant\source\repos\Introduction\Cars\bin\Debug\Cars.exe.config
+C:\Users\dylant\source\repos\Introduction\Cars\bin\Debug\Cars.exe
+C:\Users\dylant\source\repos\Introduction\Cars\bin\Debug\Cars.pdb
+C:\Users\dylant\source\repos\Introduction\Cars\obj\Debug\Cars.csprojAssemblyReference.cache
+C:\Users\dylant\source\repos\Introduction\Cars\obj\Debug\Cars.csproj.CoreCompileInputs.cache
+C:\Users\dylant\source\repos\Introduction\Cars\obj\Debug\Cars.exe
+C:\Users\dylant\source\repos\Introduction\Cars\obj\Debug\Cars.pdb
+C:\Users\dylant\source\repos\Introduction\Cars\bin\Debug\manufacturers.csv

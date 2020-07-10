@@ -1,0 +1,7 @@
+C:\Users\dylant\source\repos\Introduction\Features\bin\Debug\Features.exe.config
+C:\Users\dylant\source\repos\Introduction\Features\bin\Debug\Features.exe
+C:\Users\dylant\source\repos\Introduction\Features\bin\Debug\Features.pdb
+C:\Users\dylant\source\repos\Introduction\Features\obj\Debug\Features.csprojAssemblyReference.cache
+C:\Users\dylant\source\repos\Introduction\Features\obj\Debug\Features.csproj.CoreCompileInputs.cache
+C:\Users\dylant\source\repos\Introduction\Features\obj\Debug\Features.exe
+C:\Users\dylant\source\repos\Introduction\Features\obj\Debug\Features.pdb

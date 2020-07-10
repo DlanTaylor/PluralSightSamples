@@ -1,0 +1,13 @@
+C:\Users\dylant\source\repos\TestCSharp\TestCSharp\bin\Debug\netcoreapp3.1\TestCSharp.exe
+C:\Users\dylant\source\repos\TestCSharp\TestCSharp\bin\Debug\netcoreapp3.1\TestCSharp.deps.json
+C:\Users\dylant\source\repos\TestCSharp\TestCSharp\bin\Debug\netcoreapp3.1\TestCSharp.runtimeconfig.json
+C:\Users\dylant\source\repos\TestCSharp\TestCSharp\bin\Debug\netcoreapp3.1\TestCSharp.runtimeconfig.dev.json
+C:\Users\dylant\source\repos\TestCSharp\TestCSharp\bin\Debug\netcoreapp3.1\TestCSharp.dll
+C:\Users\dylant\source\repos\TestCSharp\TestCSharp\bin\Debug\netcoreapp3.1\TestCSharp.pdb
+C:\Users\dylant\source\repos\TestCSharp\TestCSharp\obj\Debug\netcoreapp3.1\TestCSharp.csprojAssemblyReference.cache
+C:\Users\dylant\source\repos\TestCSharp\TestCSharp\obj\Debug\netcoreapp3.1\TestCSharp.AssemblyInfoInputs.cache
+C:\Users\dylant\source\repos\TestCSharp\TestCSharp\obj\Debug\netcoreapp3.1\TestCSharp.AssemblyInfo.cs
+C:\Users\dylant\source\repos\TestCSharp\TestCSharp\obj\Debug\netcoreapp3.1\TestCSharp.csproj.CoreCompileInputs.cache
+C:\Users\dylant\source\repos\TestCSharp\TestCSharp\obj\Debug\netcoreapp3.1\TestCSharp.dll
+C:\Users\dylant\source\repos\TestCSharp\TestCSharp\obj\Debug\netcoreapp3.1\TestCSharp.pdb
+C:\Users\dylant\source\repos\TestCSharp\TestCSharp\obj\Debug\netcoreapp3.1\TestCSharp.genruntimeconfig.cache

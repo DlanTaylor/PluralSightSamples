@@ -1,0 +1,7 @@
+C:\Users\dylant\source\repos\Introduction\Queries\bin\Debug\Queries.exe.config
+C:\Users\dylant\source\repos\Introduction\Queries\bin\Debug\Queries.exe
+C:\Users\dylant\source\repos\Introduction\Queries\bin\Debug\Queries.pdb
+C:\Users\dylant\source\repos\Introduction\Queries\obj\Debug\Queries.csprojAssemblyReference.cache
+C:\Users\dylant\source\repos\Introduction\Queries\obj\Debug\Queries.csproj.CoreCompileInputs.cache
+C:\Users\dylant\source\repos\Introduction\Queries\obj\Debug\Queries.exe
+C:\Users\dylant\source\repos\Introduction\Queries\obj\Debug\Queries.pdb

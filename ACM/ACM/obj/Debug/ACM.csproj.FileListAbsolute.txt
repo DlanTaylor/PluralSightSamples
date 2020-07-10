@@ -1,0 +1,9 @@
+C:\Users\dylant\source\repos\ACM\ACM\bin\Debug\ACM.dll
+C:\Users\dylant\source\repos\ACM\ACM\bin\Debug\ACM.pdb
+C:\Users\dylant\source\repos\ACM\ACM\obj\Debug\ACM.csprojAssemblyReference.cache
+C:\Users\dylant\source\repos\ACM\ACM\obj\Debug\ACM.csproj.CoreCompileInputs.cache
+C:\Users\dylant\source\repos\ACM\ACM\obj\Debug\ACM.dll
+C:\Users\dylant\source\repos\ACM\ACM\obj\Debug\ACM.pdb
+C:\Users\dylant\source\repos\ACM\ACM\bin\Debug\Acme.Common.dll
+C:\Users\dylant\source\repos\ACM\ACM\bin\Debug\Acme.Common.pdb
+C:\Users\dylant\source\repos\ACM\ACM\obj\Debug\ACM.csproj.CopyComplete

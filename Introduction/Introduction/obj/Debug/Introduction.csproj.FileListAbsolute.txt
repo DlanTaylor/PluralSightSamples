@@ -1,0 +1,7 @@
+C:\Users\dylant\source\repos\Introduction\Introduction\obj\Debug\Introduction.csprojAssemblyReference.cache
+C:\Users\dylant\source\repos\Introduction\Introduction\obj\Debug\Introduction.csproj.CoreCompileInputs.cache
+C:\Users\dylant\source\repos\Introduction\Introduction\bin\Debug\Introduction.exe.config
+C:\Users\dylant\source\repos\Introduction\Introduction\bin\Debug\Introduction.exe
+C:\Users\dylant\source\repos\Introduction\Introduction\bin\Debug\Introduction.pdb
+C:\Users\dylant\source\repos\Introduction\Introduction\obj\Debug\Introduction.exe
+C:\Users\dylant\source\repos\Introduction\Introduction\obj\Debug\Introduction.pdb

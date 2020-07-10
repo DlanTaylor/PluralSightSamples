@@ -1,0 +1,13 @@
+C:\Users\dylant\source\repos\TopTenPops\TopTenPops\bin\Debug\netcoreapp3.1\TopTenPops.exe
+C:\Users\dylant\source\repos\TopTenPops\TopTenPops\bin\Debug\netcoreapp3.1\TopTenPops.deps.json
+C:\Users\dylant\source\repos\TopTenPops\TopTenPops\bin\Debug\netcoreapp3.1\TopTenPops.runtimeconfig.json
+C:\Users\dylant\source\repos\TopTenPops\TopTenPops\bin\Debug\netcoreapp3.1\TopTenPops.runtimeconfig.dev.json
+C:\Users\dylant\source\repos\TopTenPops\TopTenPops\bin\Debug\netcoreapp3.1\TopTenPops.dll
+C:\Users\dylant\source\repos\TopTenPops\TopTenPops\bin\Debug\netcoreapp3.1\TopTenPops.pdb
+C:\Users\dylant\source\repos\TopTenPops\TopTenPops\obj\Debug\netcoreapp3.1\TopTenPops.csprojAssemblyReference.cache
+C:\Users\dylant\source\repos\TopTenPops\TopTenPops\obj\Debug\netcoreapp3.1\TopTenPops.AssemblyInfoInputs.cache
+C:\Users\dylant\source\repos\TopTenPops\TopTenPops\obj\Debug\netcoreapp3.1\TopTenPops.AssemblyInfo.cs
+C:\Users\dylant\source\repos\TopTenPops\TopTenPops\obj\Debug\netcoreapp3.1\TopTenPops.csproj.CoreCompileInputs.cache
+C:\Users\dylant\source\repos\TopTenPops\TopTenPops\obj\Debug\netcoreapp3.1\TopTenPops.dll
+C:\Users\dylant\source\repos\TopTenPops\TopTenPops\obj\Debug\netcoreapp3.1\TopTenPops.pdb
+C:\Users\dylant\source\repos\TopTenPops\TopTenPops\obj\Debug\netcoreapp3.1\TopTenPops.genruntimeconfig.cache
